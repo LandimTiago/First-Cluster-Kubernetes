@@ -1,5 +1,21 @@
 # Como criar seu primeiro Cluster Kubernetes na prática com KinD - Kubernetes para Iniciantes
 
+Projeto construido durante as aulas disponibilizadas no canal do Erick Wendel, agradecimentos no final. Este repositorio será dividido em branchs de acordo com as aulas passadas.
+
+- Primeira aula - criando seu primeiro cluster com kind
+
+```
+git checkout first-cluster
+```
+
+- Segunda aula - Como publicar sua primeira aplicação Node.JS no Kebernetes
+
+```
+git checkout node-with-kubernetes
+```
+
+# Primeira aula
+
 ## Comandos basicos
 
 Criando um kubernate com o kind
