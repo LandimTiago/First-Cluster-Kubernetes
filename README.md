@@ -11,7 +11,7 @@ git checkout first-cluster
 - Segunda aula - Como publicar sua primeira aplicação Node.JS no Kebernetes
 
 ```
-git checkout node-with-kubernetes
+git checkout node-with-kube
 ```
 
 # Primeira aula
