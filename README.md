@@ -184,7 +184,7 @@ Para acessar localmente precisamos configurar um port-forward, temos que entrar 
 kubectl port-forward service/api 3000:80
 ```
 
-Acima definimos que o serviço local, service/api, vai ouvir a porta local 3000 acessando a porta do cluster 80. Apos isso podemos ir direto ao nosso navegador e testar http://locahost:300 e teremos a resposta setada em nossa api.
+Acima definimos que o serviço local, service/api, vai ouvir a porta local 3000 acessando a porta do cluster 80. Apos isso podemos ir direto ao nosso navegador e testar http://localhost:3000 e teremos a resposta setada em nossa api.
 
 ## Ferramentas
 
